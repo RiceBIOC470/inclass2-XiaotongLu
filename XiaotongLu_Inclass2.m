@@ -1,3 +1,18 @@
+%GB Comments:
+%1a 100
+%1b 100
+%1c 100
+%2a 100 
+%2b 0 While is a conditional statement 
+%3c 100
+%3d 0 Incorrect, distance from the origin or Pythagorean theorem would have been acceptable answers. 
+%4a 0 No Answer
+%4b 0 No Answer
+%4c 0 No Answer
+%4d. 0 No Answer
+%Overall: 45
+
+
 %% Inclass assignment 2
 
 % 1. a. fill in this loop with a conditional statement so that it displays
