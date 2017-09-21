@@ -3,7 +3,7 @@
 %1b 100
 %1c 100
 %2a 100 
-%2b 0 While is a conditional statement 
+%2b 100 Be careful, while loops are not the best approach for this question since its tehcnically a conditional  statement. 
 %3c 100
 %3d 0 Incorrect, distance from the origin or Pythagorean theorem would have been acceptable answers. 
 %4a 0 No Answer
